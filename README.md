@@ -19,7 +19,7 @@ This site was made using JQuery, Moment.js, and Bootstrap. Utilized local storag
 - [W3 Schools](https://www.w3schools.com/)
 - [Stackoverflow](https://stackoverflow.com/)
 - [freeformatter](https://www.freeformatter.com/html-validator.html)
-- Bootcamp Activities 5, 6, 8, 28
+- Bootcamp Activities 8, 11, 15, 18, 20
 
 ## Screen Shots
 <img src="https://github.com/krcook1980/DailyPlanner/blob/main/assets/screen%20shot.JPG">
